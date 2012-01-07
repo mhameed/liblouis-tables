@@ -1,0 +1,24 @@
+include sv-1989.ctb
+include mh-ar-g1.ctb
+
+letter \x0639 12356
+letter \x0637 23456
+sign \t 0-0-0-0
+sign \x200F 0
+sign \x2013 36
+sign \x2018 5
+sign \x2019 5
+sign \x201c 56
+sign \x201d 56
+sign \x2022 35
+sign \x202A 0
+sign \x202B 0
+sign \x202C 0
+
+always \t 0-0-0-0
+
+
+# greek
+include mh-gr-comp8.ctb
+# arabic
+include mh-ar-g1.ctb

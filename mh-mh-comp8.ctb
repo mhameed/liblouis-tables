@@ -1,0 +1,83 @@
+# liblouis: U.S. English 8 dot Computer braille table
+include my.text_nabcc.dis All display opcodes
+
+#display \x0639 12356
+
+space \t 9 tab
+space \s 0 blank
+space \x00a0 a unbreakable space
+sign \x000a 78 newline
+space \x000d 0 carriage return
+digit 0 2458
+digit 1 12345678
+digit 2 128
+digit 3 148
+digit 4 1458
+digit 5 158
+digit 6 1248
+digit 7 12458
+digit 8 1258
+digit 9 248
+uplow Aa 23,1
+uplow Bb 127,12
+uplow Cc 147,14
+uplow Dd 1457,145
+uplow Ee 157,15
+uplow Ff 1247,124
+uplow Gg 12457,1245
+uplow Hh 1257,125
+uplow Ii 247,24
+uplow Jj 2457,245
+uplow Kk 137,13
+uplow Ll 1237,123
+uplow Mm 1347,134
+uplow Nn 13457,1345
+uplow Oo 1357,135
+uplow Pp 12347,1234
+uplow Qq 123457,12345
+uplow Rr 12357,1235
+uplow Ss 2347,234
+uplow Tt 23457,2345
+uplow Uu 1367,136
+uplow Vv 12367,1236
+uplow Ww 24567,2456
+uplow Xx 13467,1346
+uplow Yy 134567,13456
+uplow Zz 13567,1356
+punctuation , 2
+punctuation ; 23
+punctuation : 25
+punctuation . 3
+punctuation ! 235
+punctuation " 45
+punctuation ' 3
+punctuation ( 23678 
+punctuation ) 35678
+punctuation - 36
+sign _ 78
+math < 268
+math = 2356
+math > 357
+sign % 4678
+math + 2357
+math ~ 458
+sign ` 4
+sign & 346
+sign $ 256
+punctuation ? 25
+punctuation { 378
+punctuation [ 23578
+punctuation } 678
+punctuation ] 345678
+sign ^ 457
+sign @ 467
+sign # 3456
+sign \\ 4567
+sign | 4568
+math / 34
+sign * 16
+
+# greek
+include mh-gr-comp8.ctb
+# arabic
+include mh-ar-g1.ctb
