@@ -11,6 +11,7 @@ sign \x2019 5
 sign \x201c 56
 sign \x201d 56
 sign \x2022 35
+sign \x2026 3-3-3
 sign \x202A 0
 sign \x202B 0
 sign \x202C 0
