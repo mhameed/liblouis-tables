@@ -11,6 +11,8 @@ sign \x2026 3-3-3
 sign \x202A 0
 sign \x202B 0
 sign \x202C 0
+sign \x2190 268-36 left arrow
+sign \x2192 36-357 right arrow
 sign \x2208  46-15
 sign \x2212 36
 sign \x221e 6-123456
@@ -18,6 +20,7 @@ sign \x2264 268-2356
 sign \x2265 357-2356
 sign \x2500 2356
 sign \x25aa 2578
+sign \x25cf 35
 sign \x25e6 35
 sign \xfb01 124-24
 always \t 0-0-0-0
