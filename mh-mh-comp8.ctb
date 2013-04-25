@@ -1,3 +1,4 @@
+include unicode.dis
 include sv-1989.ctb
 
 # greek
