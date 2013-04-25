@@ -4,6 +4,12 @@ include sv-1989.ctb
 include mh-gr-comp8.cti
 # arabic
 include mh-ar-g1.cti
+# ethiopic
+include mh-ethio.cti
+# tamil
+include mh-ta-g1.cti
+# nepali
+include mh-ne.cti
 # other symbols
 include mh-sym.cti
 # unicode braille.
