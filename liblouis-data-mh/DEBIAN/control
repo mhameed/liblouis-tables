@@ -1,0 +1,10 @@
+Package: liblouis-data-mh
+Version: 2.4.1-1
+Architecture: all
+Depends: liblouis-data (>= 2.4.1)
+Maintainer: Mesar Hameed <mhameed@src.gnome.org>
+Section: text
+Priority: extra
+Multi-Arch: foreign
+Description: Braille translation library - personal data
+ Additional personal tables.
