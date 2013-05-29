@@ -1,5 +1,5 @@
 Package: liblouis-data-mh
-Version: 2.4.1-1
+Version: 2.4.1-2
 Architecture: all
 Depends: liblouis-data (>= 2.4.1)
 Maintainer: Mesar Hameed <mhameed@src.gnome.org>
