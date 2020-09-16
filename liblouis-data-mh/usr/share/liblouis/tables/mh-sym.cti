@@ -31,6 +31,7 @@ sign \x25b1 0
 sign \X25b2 0
 sign \x25cf 35
 sign \x25e6 35
+sign \xf107 0
 sign \xfb01 124-24
 always \t 0-0-0-0
 
