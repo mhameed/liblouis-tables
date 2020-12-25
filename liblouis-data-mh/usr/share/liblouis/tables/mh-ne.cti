@@ -1,145 +1,145 @@
 
-sign \X0901 3 # davanagari chandra bindu 
-sign \X0902 56 # davanagari Sira bindu
-sign \X0903 6 # davanagari Bisharga
-sign \X0905 1 #Hraswa aa"
-sign \X0906 345 #baraa aa"
-sign \X0907 24 #"Hraswa ii"
-sign \X0908 35 #"baRii ii"
-sign \X0909 136 #"Hraswa u"
-sign \X090A 1256 #"baRaa uu"
-sign \X090B 5-1235 #"RRi"
-sign \X090C 5-12357 #"lri"
-sign \X090D 157 #"e"
-sign \X090E 347 #"ai"
-sign \X090F 15 #"e"
-sign \X0910 34 #"ai"
-sign \X0911 1357 #"o"
-sign \X0912 2467 #"au"
-sign \X0913 135 #"o"
-sign \X0914 246 #"au"
+sign \x0901 3 # davanagari chandra bindu 
+sign \x0902 56 # davanagari Sira bindu
+sign \x0903 6 # davanagari Bisharga
+sign \x0905 1 #Hraswa aa"
+sign \x0906 345 #baraa aa"
+sign \x0907 24 #"Hraswa ii"
+sign \x0908 35 #"baRii ii"
+sign \x0909 136 #"Hraswa u"
+sign \x090A 1256 #"baRaa uu"
+sign \x090B 5-1235 #"RRi"
+sign \x090C 5-12357 #"lri"
+sign \x090D 157 #"e"
+sign \x090E 347 #"ai"
+sign \x090F 15 #"e"
+sign \x0910 34 #"ai"
+sign \x0911 1357 #"o"
+sign \x0912 2467 #"au"
+sign \x0913 135 #"o"
+sign \x0914 246 #"au"
 
-sign \X0915 13 # davanagari ka
-sign \X0916 46 # davanagari kha
-sign \X0917 1234 # davanagari ga
-sign \X0918 126 # davanagari gha
-sign \X0919 346 #davanagari aNgaa
+sign \x0915 13 # davanagari ka
+sign \x0916 46 # davanagari kha
+sign \x0917 1234 # davanagari ga
+sign \x0918 126 # davanagari gha
+sign \x0919 346 #davanagari aNgaa
 
-sign \X091A 14 # davanagari ca
-sign \X091B 16 # davanagari cha
-sign \X091C 245 # davanagari ja
-sign \X091D 356 # davanagari jha
-sign \X091E 25 #davanagari yangaa
+sign \x091A 14 # davanagari ca
+sign \x091B 16 # davanagari cha
+sign \x091C 245 # davanagari ja
+sign \x091D 356 # davanagari jha
+sign \x091E 25 #davanagari yangaa
 
-sign \X091F 23456 # davanagari ta
-sign \X0920 2456 # davanagari tha
-sign \X0921 1246 # davanagari da
-sign \X0922 123456 # davanagari dha
-sign \X0923 3456 #davanagari nna
+sign \x091F 23456 # davanagari ta
+sign \x0920 2456 # davanagari tha
+sign \x0921 1246 # davanagari da
+sign \x0922 123456 # davanagari dha
+sign \x0923 3456 #davanagari nna
 
-sign \X0924 2345 # davanagari ta
-sign \X0925 1456 # davanagari tha
-sign \X0926 145 # davanagari da
-sign \X0927 2346 # davanagari dha
-sign \X0928 1345 #davanagari na
+sign \x0924 2345 # davanagari ta
+sign \x0925 1456 # davanagari tha
+sign \x0926 145 # davanagari da
+sign \x0927 2346 # davanagari dha
+sign \x0928 1345 #davanagari na
 
-sign \X092A 1234 # davanagari pa
-sign \X092B 235 # davanagari tha
-sign \X092C 12 # davanagari ba
-sign \X092D 45 # davanagari bha
-sign \X092E 134 #davanagari ma
+sign \x092A 1234 # davanagari pa
+sign \x092B 235 # davanagari tha
+sign \x092C 12 # davanagari ba
+sign \x092D 45 # davanagari bha
+sign \x092E 134 #davanagari ma
 
-sign \X092F 13456 # davanagari yaa
-sign \X0930 1235 # davanagari ra
-sign \X0931 12357 # davanagari rra
-sign \X0932 123 # davanagari la
-sign \X0933 1237 #davanagari la
-sign \X0934 12378 #davanagari la
-sign \X0935 1236 #davanagari va
-sign \X0936 146 #davanagari sha
-sign \X0937 12346 #davanagari ssha
-sign \X0938 234 #davanagari sa
-sign \X0939 125 #davanagari ha
+sign \x092F 13456 # davanagari yaa
+sign \x0930 1235 # davanagari ra
+sign \x0931 12357 # davanagari rra
+sign \x0932 123 # davanagari la
+sign \x0933 1237 #davanagari la
+sign \x0934 12378 #davanagari la
+sign \x0935 1236 #davanagari va
+sign \x0936 146 #davanagari sha
+sign \x0937 12346 #davanagari ssha
+sign \x0938 234 #davanagari sa
+sign \x0939 125 #davanagari ha
 
 #--------
 # matras
 
-sign \X093E 345 #baraa aa ki matra
-sign \X093F 24 #"Hraswa ii matra
-sign \X0940 35 #"baRii ii matra
-sign \X0941 136 #Hraswa u matra
-sign \X0942 1256 #"baRaa uu matra"
-sign \X0943 5-1235 #"RRi matra"
-sign \X0944 5-12357 #"lri matra"
-sign \X0945 157 #"e matra"
-sign \X0946 347 #"ai matra"
-sign \X0947 15 #"e matra"
-sign \X0948 34 #"ai matra"
-sign \X0949 1357 #"o"
-sign \X094A 2467 #"au"
-sign \X094B 135 #"o matra"
-sign \X094C 246 #"au matra"
+sign \x093E 345 #baraa aa ki matra
+sign \x093F 24 #"Hraswa ii matra
+sign \x0940 35 #"baRii ii matra
+sign \x0941 136 #Hraswa u matra
+sign \x0942 1256 #"baRaa uu matra"
+sign \x0943 5-1235 #"RRi matra"
+sign \x0944 5-12357 #"lri matra"
+sign \x0945 157 #"e matra"
+sign \x0946 347 #"ai matra"
+sign \x0947 15 #"e matra"
+sign \x0948 34 #"ai matra"
+sign \x0949 1357 #"o"
+sign \x094A 2467 #"au"
+sign \x094B 135 #"o matra"
+sign \x094C 246 #"au matra"
 
-sign \X094D 4
+sign \x094D 4
 
 #--------
 # digits
 
-digit \X0966 245 # davanagari 0
-digit \X0967 1 # davanagari 1
-digit \X0968 12 # davanagari 2
-digit \X0969 14 # davanagari 3
-digit \X096A 145 # davanagari 4
-digit \X096B 15 # davanagari 5
-digit \X096C 124 # davanagari 6
-digit \X096D 1245 # davanagari 7
-digit \X096E 125 # davanagari 8
-digit \X096F 24 # davanagari 9
+digit \x0966 245 # davanagari 0
+digit \x0967 1 # davanagari 1
+digit \x0968 12 # davanagari 2
+digit \x0969 14 # davanagari 3
+digit \x096A 145 # davanagari 4
+digit \x096B 15 # davanagari 5
+digit \x096C 124 # davanagari 6
+digit \x096D 1245 # davanagari 7
+digit \x096E 125 # davanagari 8
+digit \x096F 24 # davanagari 9
 
 #--------
 # half characters
 
-always \X0915\x094D 4-13 # davanagari ka
-always \X0916\x094D 4-46 # davanagari kha
-always \X0917\x094D 4-1234 # davanagari ga
-always \X0918\x094D 4-126 # davanagari gha
-always \X0919\x094D 4-346 #davanagari aNgaa
+always \x0915\x094D 4-13 # davanagari ka
+always \x0916\x094D 4-46 # davanagari kha
+always \x0917\x094D 4-1234 # davanagari ga
+always \x0918\x094D 4-126 # davanagari gha
+always \x0919\x094D 4-346 #davanagari aNgaa
 
-always \X091A\x094D 4-14 # davanagari ca
-always \X091B\x094D 4-16 # davanagari cha
-always \X091C\x094D 4-245 # davanagari ja
-always \X091D\x094D 4-356 # davanagari jha
-always \X091E\x094D 4-25 #davanagari yangaa
+always \x091A\x094D 4-14 # davanagari ca
+always \x091B\x094D 4-16 # davanagari cha
+always \x091C\x094D 4-245 # davanagari ja
+always \x091D\x094D 4-356 # davanagari jha
+always \x091E\x094D 4-25 #davanagari yangaa
 
-always \X091F\x094d 4-23456 # davanagari ta
-always \X0920\x094D 4-2456 # davanagari tha
-always \X0921\x094D 4-1246 # davanagari da
-always \X0922\x094D 4-123456 # davanagari dha
-always \X0923\x094D 4-3456 #davanagari nna
+always \x091F\x094d 4-23456 # davanagari ta
+always \x0920\x094D 4-2456 # davanagari tha
+always \x0921\x094D 4-1246 # davanagari da
+always \x0922\x094D 4-123456 # davanagari dha
+always \x0923\x094D 4-3456 #davanagari nna
 
-always \X0924\x094D 4-2345 # davanagari ta
-always \X0925\x094D 4-1456 # davanagari tha
-always \X0926\x094D 4-145 # davanagari da
-always \X0927\x094D 4-2346 # davanagari dha
-always \X0928\x094D 4-1345 #davanagari na
+always \x0924\x094D 4-2345 # davanagari ta
+always \x0925\x094D 4-1456 # davanagari tha
+always \x0926\x094D 4-145 # davanagari da
+always \x0927\x094D 4-2346 # davanagari dha
+always \x0928\x094D 4-1345 #davanagari na
 
-always \X092A\x094D 4-1234 # davanagari pa
-always \X092B\x094D 4-235 # davanagari tha
-always \X092C\x094D 4-12 # davanagari ba
-always \X092D\x094D 4-2346 # davanagari bha
-always \X092E\x094D 4-1345 #davanagari ma
+always \x092A\x094D 4-1234 # davanagari pa
+always \x092B\x094D 4-235 # davanagari tha
+always \x092C\x094D 4-12 # davanagari ba
+always \x092D\x094D 4-2346 # davanagari bha
+always \x092E\x094D 4-1345 #davanagari ma
 
-always \X092F\x094D 4-13456 # davanagari yaa
-always \X0930\x094D 4-1235 # davanagari ra
-always \X0931\x094D 4-1235 # davanagari rra
-always \X0932\x094D 4-123 # davanagari la
-always \X0933\x094D 4-123 #davanagari la
-always \X0934\x094D 4-123 #davanagari la
-always \X0935\x094D 4-1236 #davanagari va
-always \X0936\x094D 4-146 #davanagari sha
-always \X0937\x094D 4-12346 #davanagari ssha
-always \X0938\x094D 4-234 #davanagari sa
-always \X0939\x094D 4-125 #davanagari ha
+always \x092F\x094D 4-13456 # davanagari yaa
+always \x0930\x094D 4-1235 # davanagari ra
+always \x0931\x094D 4-1235 # davanagari rra
+always \x0932\x094D 4-123 # davanagari la
+always \x0933\x094D 4-123 #davanagari la
+always \x0934\x094D 4-123 #davanagari la
+always \x0935\x094D 4-1236 #davanagari va
+always \x0936\x094D 4-146 #davanagari sha
+always \x0937\x094D 4-12346 #davanagari ssha
+always \x0938\x094D 4-234 #davanagari sa
+always \x0939\x094D 4-125 #davanagari ha
 
 #------------
 # consonent followed by vowel but not matra
